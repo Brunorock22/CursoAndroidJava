@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FraseAleatoria</string>
+    <string name="frase_dia">Nova Frase</string>
+    <string name="texto_campo">Frase do dia!</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156076117497",
+    "firebase_url": "https://login-ba0d8.firebaseio.com",
+    "project_id": "login-ba0d8",
+    "storage_bucket": "login-ba0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156076117497:android:1c2465a602a560e5",
+        "android_client_info": {
+          "package_name": "findsolucoes.com.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156076117497-7t75sb844q6jvv546b4cec53omthum05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "findsolucoes.com.login",
+            "certificate_hash": "42cd66cc8021688f84ba9132d31419c7e318cd06"
+          }
+        },
+        {
+          "client_id": "156076117497-qmahkdoj2g5li306lh94p408f1ur14t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1Fb7TCVz9_gKwiECBzmuOjbJYfFadYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156076117497-qmahkdoj2g5li306lh94p408f1ur14t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

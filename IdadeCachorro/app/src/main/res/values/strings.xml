@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IdadeCachorro</string>
+    <string name="ask">Digite a idade do seu cachorro para saber sua idade em anos humanos</string>
+    <string name="title_activity_tela2">tela2</string>
+</resources>
