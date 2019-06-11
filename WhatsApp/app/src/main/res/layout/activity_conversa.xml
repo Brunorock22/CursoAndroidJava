@@ -15,13 +15,15 @@
         android:layout_height="wrap_content"
         android:padding="8dp"
         android:layout_below="@+id/tb_conversa"
-        android:layout_above="@+id/ll_mensagem"></ListView>
+        android:layout_above="@+id/ll_mensagem"
+        ></ListView>
 
     <LinearLayout
         android:id="@+id/ll_mensagem"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
+        android:layout_above="@id/ll_mensagem"
         android:background="@android:color/white"
         android:layout_alignParentBottom="true">
 

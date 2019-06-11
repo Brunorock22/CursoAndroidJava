@@ -1,10 +1,9 @@
-package findsolucoes.com.whatsapp;
+package findsolucoes.com.whatsapp.activity;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Base64;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -12,15 +11,15 @@ import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
-import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseAuthUserCollisionException;
 import com.google.firebase.auth.FirebaseAuthWeakPasswordException;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
 
-import findsolucoes.com.whatsapp.activity.LoginActivity;
+import findsolucoes.com.whatsapp.R;
 import findsolucoes.com.whatsapp.config.ConfiguracaoFirebase;
 import findsolucoes.com.whatsapp.helper.BAse64Custom;
 import findsolucoes.com.whatsapp.helper.Preferencias;
@@ -34,6 +33,7 @@ public class CadastroActivity extends AppCompatActivity {
     private Button botaoCadastro;
 
     private FirebaseAuth autenticacao;
+    private DatabaseReference firebase;
 
     private Usuario usuario;
 
@@ -71,8 +71,12 @@ public class CadastroActivity extends AppCompatActivity {
                     usuario.setId( identificadorUsuario );
                     usuario.salvar();
 
+                    firebase = ConfiguracaoFirebase.getFirebase()
+                            .child("usuarios")
+                            .child(identificadorUsuario);
+
                     Preferencias preferencias = new Preferencias(CadastroActivity.this);
-                    preferencias.salvarDados(identificadorUsuario);
+                    preferencias.salvarDados(identificadorUsuario, usuario.getNome() );
 
                     abrirLoginUsuario();
 

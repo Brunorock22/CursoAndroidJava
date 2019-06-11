@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="center_horizontal"
     android:background="@color/colorPrimary"
-    tools:context=".CadastroActivity">
+    tools:context=".activity.CadastroActivity">
 
     <ImageView
         android:id="@+id/imageView2"

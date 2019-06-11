@@ -7,16 +7,21 @@
     android:layout_height="match_parent"
     tools:context=".fragment.ConversasFragment">
 
-    <!-- TODO: Update blank fragment layout -->
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="59dp"
+    <ListView
+        android:id="@+id/lv_conversas"
+        android:layout_width="337dp"
+        android:layout_height="661dp"
         android:layout_marginTop="8dp"
-        android:text="Conversas"
+        android:layout_marginBottom="8dp"
+        android:divider="@color/cinza"
+
+        android:dividerHeight="1dp"
+        android:footerDividersEnabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
 
 </android.support.constraint.ConstraintLayout>

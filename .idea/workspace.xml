@@ -1,8 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58f67e81-97e9-4e38-977c-8a09116eacb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pase/Parse-Projeto-1.13.0/Parse-Projeto-1.13.0/.idea/Parse-Projeto-1.13.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pase/Parse-Projeto-1.13.0/Parse-Projeto-1.13.0/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pase/Parse-Projeto-1.13.0/Parse-Projeto-1.13.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pase/Parse-Projeto-1.13.0/Parse-Projeto-1.13.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pase/Parse-Projeto-1.13.0/Parse-Projeto-1.13.0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/androidTest/java/findsolucoes/com/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/java/findsolucoes/com/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/java/findsolucoes/com/myapplication/models/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/java/findsolucoes/com/myapplication/models/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/java/findsolucoes/com/myapplication/models/UdacityCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/java/findsolucoes/com/myapplication/models/UdacityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/app/src/test/java/findsolucoes/com/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofite/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toast/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/adapter/ConversaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/adapter/MesagemAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/fragment/ContatosFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/helper/SlidingTapStrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/model/Conversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/model/Mensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-hdpi/ic_action_arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-hdpi/ic_action_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-hdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-hdpi/ic_supervisor_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-mdpi/ic_action_arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-mdpi/ic_action_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-mdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-mdpi/ic_supervisor_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xhdpi/ic_action_arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xhdpi/ic_action_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xhdpi/ic_supervisor_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxhdpi/ic_action_arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxhdpi/ic_action_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxhdpi/ic_supervisor_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxxhdpi/ic_action_arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxxhdpi/ic_action_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxxhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/drawable-xxxhdpi/ic_supervisor_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/fragment_contatos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/item_mensagem_direita.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/item_mensagem_esquerda.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/lista_conversas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anatocoes/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Anatocoes/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtmConsultoria/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AtmConsultoria/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AulaActivity/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaraOuCoroa/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/CaraOuCoroa/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckBox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/CheckBox/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DadosActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/DadosActivity/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dialog/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Dialog/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fire/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Fire/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireBase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FireBase/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireBase2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FireBase2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flappy_Bird/test" beforeDir="false" afterPath="$PROJECT_DIR$/Flappy_Bird/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flappy_Bird/test/android/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Flappy_Bird/test/android/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flappy_Bird/test/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Flappy_Bird/test/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flappy_Bird/test/core/src/com/mygdx/game/Flappybird.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flappy_Bird/test/core/src/com/mygdx/game/Flappybird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Frase/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gasolina/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Gasolina/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LayoutRelativo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutRelativo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListSignos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ListSignos/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ListView/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login-Firebase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Login-Firebase/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreferenciasCor/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PreferenciasCor/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoActivity/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoFreagmento/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoFreagmento/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QualSerie/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QualSerie/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadioButton/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButton/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLite/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SQLite/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQlight/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SQlight/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeekBar/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SeekBar/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedPreferences/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SharedPreferences/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomdosBichos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SomdosBichos/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toast/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Toast/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TocaMusica/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/TocaMusica/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoList/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/TodoList/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TogleButton/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/TogleButton/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/CadastroActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/activity/CadastroActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/activity/ConversaActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/activity/ConversaActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/activity/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/activity/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/fragment/ConversasFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/fragment/ConversasFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/helper/Preferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/helper/Preferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/java/findsolucoes/com/whatsapp/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/activity_cadastro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/activity_cadastro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/activity_conversa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/activity_conversa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/fragment_conversas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/fragment_conversas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/lista_contato.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/layout/lista_contato.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhatsApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/WhatsApp/build.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="y" value="212" />
+    <option name="width" value="1280" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -53,5 +239,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58f67e81-97e9-4e38-977c-8a09116eacb5" name="Default Changelist" comment="" />
+      <created>1559912420465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559912420465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3298887" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32938388" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32938388" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/findsolucoes/com/retrofit/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
